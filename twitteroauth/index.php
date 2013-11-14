@@ -1,5 +1,5 @@
 <?php
-require_once 'twitteroauth/twitteroaut.php';
+require_once 'mariani770/twitter.php';
 
 define ('CONSUMER_KEY','uKlT1Jt2G8ycGYOHxtsw');
 define ('CONSUMER_SECRET','vVIlja07X7ckzmjhJwHEwBOYE6p2LMQ1r2zMyaDw');
